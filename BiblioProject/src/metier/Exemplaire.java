@@ -9,6 +9,8 @@ import java.util.ArrayList;
 		private String etat;
 		private int idOeuvre;
 		private ArrayList<Emprunt>empruntlist;
+private boolean choix;
+private String newString;
 
 
 		public Exemplaire(int idOeuvre,String etat) {
