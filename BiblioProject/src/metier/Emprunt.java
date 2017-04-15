@@ -3,7 +3,8 @@ package metier;
 public class Emprunt {
 	
 	private int ID;
-private int yassine;
+private int newVariable;
+private String newString;
 	private int ExemplaireID;
 	private int UsagerID;
 	private String DateEmprunt;
